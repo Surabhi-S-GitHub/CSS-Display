@@ -1,0 +1,26 @@
+*{
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+}
+.box1{
+    display: inline;
+    background-color: burlywood;
+    color: black;
+}
+.box2{
+    display: inline-block;
+    background-color: cornsilk;
+    color: black;
+}
+.box3{
+    display: block;
+    background-color: deeppink;
+    color: black;
+}
+.box4{
+    
+    background-color: mediumorchid;
+    color: black;
+}
